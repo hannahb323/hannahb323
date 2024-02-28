@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hannahb323
-- 👀 I’m interested in UX Design & Research
-- 🌱 I’m currently learning R!
+- 🤠 hi, I'm hannah!
+- ✨ ux designer @ dfinitiv
+- 📲 savvy spend smart
 
 <!---
 hannahb323/hannahb323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
